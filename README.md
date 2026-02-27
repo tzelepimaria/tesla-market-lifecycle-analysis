@@ -9,5 +9,6 @@ Google Colab notebook: https://colab.research.google.com/drive/1oG9i6XzQrli47R0t
 Tools: Python, pandas, scikit-learn, matplotlib
 
 Group project developed collaboratively by:
+
 -tzelepimaria  
 -repanipelagia
