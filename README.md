@@ -8,7 +8,6 @@ Google Colab notebook: https://colab.research.google.com/drive/1oG9i6XzQrli47R0t
 
 Tools: Python, pandas, scikit-learn, matplotlib
 
-This project was developed as part of a group assignment.
-
-Author: tzelepimaria  
-Contributors: repanipelagia
+Group project developed collaboratively by:
+-tzelepimaria  
+-repanipelagia
