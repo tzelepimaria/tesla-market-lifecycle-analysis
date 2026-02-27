@@ -1,4 +1,4 @@
-Tesla Market Lifecycle & Segmentation Analysis
+Market Lifecycle & Growth Analysis of Tesla
 
 This project analyzes Tesla's global markets using clustering techniques to identify market maturity and growth patterns.
 
